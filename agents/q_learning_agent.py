@@ -1,7 +1,7 @@
 import gymnasium as gym
 import numpy as np
 import time
-from grid_world_env import GridWorldEnv # Import our final environment
+from environments.grid_world_env import GridWorldEnv # Import our final environment
 
 def train_agent():
     """
@@ -99,3 +99,5 @@ def watch_agent(q_table, env):
 if __name__ == "__main__":
     trained_q_table, environment = train_agent()
     watch_agent(trained_q_table, environment)
+
+    
