@@ -15,7 +15,7 @@ The ultimate objective is to develop a self-sustaining, multi-agent colony in th
 * **Objective**: Train multiple agents to coordinate and deconflict in a shared environment.
 * **Completed When**: A small team of agents can cooperatively build a complex structure (e.g., a refinery) more efficiently than a single agent could alone.
 
-### Phase 3: The Thriving Colony (Complexity)
+### Phase 3: The Thriving Colony (Complexity)save
 * **Objective**: Achieve long-term planning and emergent, complex behaviors from the agent population.
 * **Completed When**: The colony can successfully build a Fabricator and use it to construct a new agent, demonstrating autonomous expansion.
 
